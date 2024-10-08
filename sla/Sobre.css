@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF; /* Fundo branco para suavizar */
+    color: #333333; /* Texto em cinza escuro */
+}
+header {
+    background-color: #E74C3C; /* Vermelho suavizado */
+    padding: 20px;
+    text-align: center;
+    color: #FFFFFF; /* Texto branco no header */
+}
+h1, h2 {
+    color: #333333; /* Títulos em cinza escuro */
+}
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #F5F5F5; /* Fundo cinza claro nas seções */
+    border-radius: 8px;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #E74C3C; /* Vermelho suavizado no rodapé */
+    color: #FFFFFF; /* Texto branco no rodapé */
+}
